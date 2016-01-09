@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Download More RAM</string>
+
+    <string name="gb4">4 GB of RAM</string>
+    <string name="gb8">8 GB of RAM</string>
+    <string name="gb16">16 GB of RAM</string>
+    <string name="gb32">32 GB of RAM</string>
+
+    <string name="testbutton">Test your RAM!</string>
+    <string name="title_activity_test_ram">TestRAM</string>
+    <string name="testdesc">(A lower score is better)</string>
+    <string name="download">Your download is complete!</string>
+</resources>
